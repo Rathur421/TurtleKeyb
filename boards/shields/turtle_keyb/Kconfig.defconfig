@@ -1,0 +1,6 @@
+if SHIELD_TURTLE_KEYB
+
+config ZMK_KEYBOARD_NAME
+    default "Turtle Keyboard"
+   
+endif

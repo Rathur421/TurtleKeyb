@@ -1,0 +1,12 @@
+file_format: "1"
+id: turtle_keyb
+name: "Turtle Keyb"
+type: shield
+url: https://github.com/Rathur421
+requires: # supported micro controller
+  - blackpill
+# exposes: # exposed pins for additional modules
+features:
+  - keys
+  - encoder
+  - backlight
