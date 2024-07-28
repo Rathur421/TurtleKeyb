@@ -1,4 +1,4 @@
 ---
 include:
-  - board: blackpill
-  shield: turtle_keyb
+  - board: blackpill_f411ce
+    shield: turtle_keyb
